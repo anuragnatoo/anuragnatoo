@@ -1,4 +1,20 @@
-### Hi there 👋. I'm Anurag
+# Hi there 👋. I'm Anurag Natoo
+
+* Currently a Computer Engineering Undergrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).
+* A beginner in the fields of Deep Learning and Web Developement.
+* ⚡ Fun fact: I prefer tea to coffee.
+
+
+## To know more:
+<p align="center">
+  <a href="mailto:coe17b015@iiitdm.ac.in"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/anuragnatoo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuragnatoo&show_icons=true" alt="anuragnatoo" />
+</p>
 
 
 <p>
@@ -6,24 +22,6 @@
 </p>
 <br>
 
-<p align="center">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/>&nbsp;&nbsp;
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/>
-</p>
-
-<br>
-
-- 📫 How to reach me:
-<p align="center">
-  <a href="mailto:coe17b015@iiitdm.ac.in"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/anuragnatoo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" /></a>
-</p>
 <!--
 **anuragnatoo/anuragnatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

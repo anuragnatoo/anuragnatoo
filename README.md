@@ -1,8 +1,7 @@
 # Hi there 👋. I'm Anurag Natoo 
 
-* __Currently a Computer Engineering Undergrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
-* __A beginner in the fields of Deep Learning and Web Developement__.
-* __⚡ Fun fact: I prefer tea to coffee__.
+* __Currently a Computer Engineering UnderGrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
+* __Scroll down to see some of my projects.Have an idea to improve them? Feel free to open a PR__.
 
 
 ### You can contact me through the following links:
@@ -12,10 +11,5 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=anuragnatoo&show_icons=true" alt="anuragnatoo" />
-</p>
-<br>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=anuragnatoo" alt="anuragnatoo" />
 </p>
 <br>

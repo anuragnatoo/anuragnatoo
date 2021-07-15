@@ -1,15 +1,39 @@
 # Hi there 👋. I'm Anurag Natoo 
 
-* __Currently a Computer Engineering UnderGrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
-* __Scroll down to see some of my projects.Have an idea to improve them? Feel free to open a PR__.
+- 🔭 CS UnderGrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).
+- 🌱 I enjoy participating in competitve programming contests.
+- 💬 Ask me about Machine Learning and Full Stack Development.
+- 📫 How to reach me: coe17b015@iiitdm.ac.in 
+- 😄 Pronouns: He/Him
+- 📚 I'm currently learning Full Stack Development and cloud concepts.
+- ⚡ Scroll down to see some of my projects.Have an idea to improve them? Feel free to open a PR 
 
 
-### You can contact me through the following links:
-* <a href="mailto:coe17b015@iiitdm.ac.in"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="35" width="35" /></a>
-* <a href="https://www.linkedin.com/in/anuragnatoo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="35" /></a>
+## ⚡ Technologies
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img height="36px" alt="C" src="icons/c.png"></a>
+<a href="https://isocpp.org/" title="C++" ><img height="36px" alt="Cpp" src="icons/c++.png"></a>
+<a href="https://www.python.org/" title="Python" ><img height="36px" alt="Python" src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git" ><img height="36px" alt="Git" src="icons/git.png" /></a>
+<a href="https://github.com/" title="Github" ><img height="36px" alt="GitHub" src="icons/github.png" /></a>
+<a href="https://code.visualstudio.com/" title="Vscode" ><img height="36px" alt="IDE" src="icons/vscode.png" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="icons/iconfinder_html5_294678.png" alt="HTML" height="36px" width="50" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="icons/iconfinder_css3_294692.png" alt="CSS" height="36px" width="50" /></a>
 
 
-<p>
+
+<h2> 👥 connect with me</h2> 
+<a href="https://www.linkedin.com/in/anuragnatoo/" target="blank"><img align="center" src="icons/iconfinder_BW_Linkedin_glyph_svg_5305157.png" alt="Linkedin profile" height="40" width="40" /></a>
+<a href="https://github.com/anuragnatoo" target="blank"><img align="center" src="icons/iconfinder_github_317712.png" alt="Github Profile" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/anuragnatoo" target="blank"><img align="center" src="icons/iconfinder_160_Hackerrank_logo_logos_4373713.png" alt="Hackerrank Profile" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/anuragnatoo" target="blank"><img align="center" src="icons/codechef.png" alt="Codechef Profile" height="40" width="40" /></a>
+
+
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=anuragnatoo&show_icons=true" alt="anuragnatoo" />
-</p>
+</div>
 <br>
+
+<div>
+<img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnatoo" />
+</div>

@@ -18,10 +18,10 @@
 <a href="https://git-scm.com/" title="Git" ><img height="36px" alt="Git" src="icons/git.png" /></a>
 <a href="https://github.com/" title="Github" ><img height="36px" alt="GitHub" src="icons/github.png" /></a>
 <a href="https://code.visualstudio.com/" title="Vscode" ><img height="36px" alt="IDE" src="icons/vscode.png" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="icons/iconfinder_html5_294678.png" alt="HTML" height="36px" width="50" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="icons/iconfinder_css3_294692.png" alt="CSS" height="36px" width="50" /></a>
-<a href="https://jupyter.org/" title="Jupyter" ><img height="36px" width="50" alt="Jupyter Notebook" src="icons/jupyter.png" /></a>
-<a href="https://www.tensorflow.org/" title="Tensorflow" ><img height="36px" width="50" alt="Tensorflow" src="icons/tensorflow.png" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="html5.png" alt="HTML" height="36px" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="icons/iconfinder_css3_294692.png" alt="CSS" height="36px" /></a>
+<a href="https://jupyter.org/" title="Jupyter" ><img height="36px"  alt="Jupyter Notebook" src="icons/jupyter.png" /></a>
+<a href="https://www.tensorflow.org/" title="Tensorflow" ><img height="36px" alt="Tensorflow" src="icons/tensorflow.png" /></a>
 
 
 # 👥 connect with me

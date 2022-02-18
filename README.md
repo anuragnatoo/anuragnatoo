@@ -1,43 +1,20 @@
-# Hi there 👋. I'm Anurag Natoo 
+<h1 align="center">Hi 👋, I'm Anurag Natoo</h1>
+<h3 align="center">A Computer Science Student</h3>
 
-- 🔭 CS UnderGrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).
-- 🌱 I'm currently learning Full Stack Development and cloud concepts.
-- 📫 How to reach me: coe17b015@iiitdm.ac.in 
-- 😄 Pronouns: He/Him
-- 📚 I like participating in competetive programming contests.
-- ⚡ Scroll down to see some of my projects.Have an idea to improve them? Feel free to open a PR 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragnatoo&label=Profile%20views&color=0e75b6&style=flat" alt="anuragnatoo" /> </p>
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anuragnatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragnatoo" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anuragnatoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuragnatoo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anuragnatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragnatoo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/anuragnatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anuragnatoo" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anuragnatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anuragnatoo" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-# ⚡ Technologies
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragnatoo&show_icons=true&locale=en&layout=compact" alt="anuragnatoo" /></p>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" target="_blank" ><img height="36px" alt="C" src="icons/c.png"></a>
-<a href="https://isocpp.org/" title="C++" target="_blank" ><img height="36px" alt="Cpp" src="icons/c++.png"></a>
-<a href="https://www.python.org/" title="Python" target="_blank"><img height="36px" alt="Python" src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git" target="_blank" ><img height="36px" alt="Git" src="icons/git.png" /></a>
-<a href="https://github.com/" title="Github" target="_blank"><img height="36px" alt="GitHub" src="icons/github.png" /></a>
-<a href="https://code.visualstudio.com/" title="Vscode" target="_blank" ><img height="36px" alt="IDE" src="icons/vscode.png" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="center" src="icons/html5.png" alt="HTML" height="36px" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="center" src="icons/iconfinder_css3_294692.png" alt="CSS" height="36px" /></a>
-<a href="https://jupyter.org/" title="Jupyter" target="_blank" ><img height="36px"  alt="Jupyter Notebook" src="icons/jupyter.png" /></a>
-<a href="https://www.tensorflow.org/" title="Tensorflow" target="_blank"><img height="36px" alt="Tensorflow" src="icons/tensorflow.png" /></a>
-
-
-# 👥 connect with me
-
-<a href="https://www.linkedin.com/in/anuragnatoo/" target="_blank" title="Linkedin Profile"><img align="center" src="icons/iconfinder_BW_Linkedin_glyph_svg_5305157.png" alt="Linkedin profile" height="40" width="40"/></a>
-<a href="https://github.com/anuragnatoo" target="_blank" title="Github"><img align="center" src="icons/iconfinder_github_317712.png" alt="Github Profile" height="40" width="40"/></a>
-<a href="https://www.hackerrank.com/anuragnatoo" target="_blank" title="Hackerrank"><img align="center" src="icons/iconfinder_160_Hackerrank_logo_logos_4373713.png" alt="Hackerrank Profile" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/anuragnatoo" target="_blank" title="Codechef"><img align="center" src="icons/codechef.png" alt="Codechef Profile" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/anuragnatoo" target="_blank" title="Codeforces"><img align="center" src="icons/codeforces.png" alt="Codeforces Profile" height="40" width="40" /></a>
-<br>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=anuragnatoo&show_icons=true" alt="anuragnatoo" />
-</div>
-<br>
-
-<div>
-<img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnatoo" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragnatoo&" alt="anuragnatoo" /></p>
